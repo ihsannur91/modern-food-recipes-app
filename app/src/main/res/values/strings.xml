@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Menumu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recipes_fragment">Recipes</string>
+    <string name="fovorite_recipes_fragment">Fovorites</string>
+    <string name="food_joke">Joke</string>
+    <string name="meal_type">Meal Type</string>
+    <string name="main_course">Main Course</string>
+    <string name="side_dish">Side Dish</string>
+    <string name="dessert">Dessert</string>
+    <string name="appetizer">Appetizer</string>
+    <string name="salad">Salad</string>
+    <string name="diet_type">Diet Type</string>
+    <string name="apply">Apply</string>
+    <string name="search">Search</string>
+</resources>
